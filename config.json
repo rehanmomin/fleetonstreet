@@ -1,0 +1,9 @@
+{
+  "BLUE":{
+    "jarvisurl":"https://app.getjarvis.com.au/sign-up" ,
+    "butlerloginurl"   :"https://blue-butler.jarvistest.com/login"
+  },
+  "PROD":{
+    "jarvisurl":"https://app.getjarvis.com.au/sign-up"
+  }
+}
